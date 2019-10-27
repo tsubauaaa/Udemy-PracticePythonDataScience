@@ -3,3 +3,4 @@
 *.npy
 *.npz
 Election_Donor_Data.csv
+sakila.db
